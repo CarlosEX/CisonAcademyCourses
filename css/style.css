@@ -416,6 +416,11 @@ nav{
   color: #5a5a5a;
 }
 
+li{
+  font-size: 13px;
+  color: #333333;
+}
+
 .plublisher button{
   background: rgb(7, 172, 29);
   color: #fff;
