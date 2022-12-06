@@ -421,6 +421,17 @@ li{
   color: #333333;
 }
 
+.container button{
+  background: rgb(7, 172, 29);
+  color: #fff;
+  padding: 15px 30px 15px 30px;
+  border: 0;
+  outline: 0;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 8px 22px;
+}
+
 .plublisher button{
   background: rgb(7, 172, 29);
   color: #fff;
